@@ -1,6 +1,6 @@
-/******************************************************
-* Author:                                           *
-* Alizée Drolet                         *
+/*****************************************************
+* Author:                                            *
+* Alizée Drolet                                      *
 ******************************************************
 * This solution uses a linked list                   *
 * to store the each states processes. They are       *
