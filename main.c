@@ -1,7 +1,6 @@
 /* Assignment 1 - Part 2
  * 
- * @author			Ryan Capstick - 101239778
- * @author			Alizee Drolet - 101193138
+ * @author			Alizee Drolet
  * 			
  * @version			v1.00
  * @release			October 13, 2023
